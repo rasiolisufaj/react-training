@@ -27,7 +27,7 @@ function App() {
     <div className="App">
       <div>
         <h1>Hello, my name is {name}</h1>
-        <button onClick={handleClick}>Click to change name</button>
+        <button onClick={handleClick}>Click To Change Name</button>
       </div>
       <hr />
       {!showUsers && (
